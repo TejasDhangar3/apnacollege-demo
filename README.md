@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my third repository.
 <br>
-Author - Tejas Dhangar
+Author - Tejas Dhangar (Self)
